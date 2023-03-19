@@ -1,8 +1,9 @@
 # React Tutorials
 
 ## What is React?
-- open sources libary for building use Interface
+open sources libary for building use Interface
 
+<h2>React Topics Coverd</h2>
 - Components
 - Functional Components
 - Class Components
