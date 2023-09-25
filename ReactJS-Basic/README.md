@@ -1,24 +1,6 @@
 # [ReactJS Basic](https://github.com/isinghabhishek/ReactJS/tree/master/ReactJS-Basic)
-### What is React?
 
-- Components
-- Functional Components
-- Class Components
-- Hooks update
-- JSX
-- Props
-- State
-- SetState
-- Desctructuring props and state
-- Event Handling
-- Binding Event Handelers
-- Methods as props
-- Conditional Rendering
-- List Rendering
-- Lists and Keys
-- Index ad Key Anti-pattern
-
-
+# Topic wise Time Stamp
 1. 
 2.
 3. 
@@ -64,3 +46,23 @@
 43. [HTTP Post Request](https://github.com/isinghabhishek/ReactJS/blob/master/ReactJS-Basic/src/components/PostForm.js)
 44. 
 45. 
+
+### What is React?
+
+## Topic Covered
+- Components
+- Functional Components
+- Class Components
+- Hooks update
+- JSX
+- Props
+- State
+- SetState
+- Desctructuring props and state
+- Event Handling
+- Binding Event Handelers
+- Methods as props
+- Conditional Rendering
+- List Rendering
+- Lists and Keys
+- Index ad Key Anti-pattern
