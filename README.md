@@ -1,5 +1,4 @@
 # ReactJS
-This repo contains all my learning related to ReactJS. A Best way of learning new is practicing.
 
 # [ReactJS Basic](https://github.com/isinghabhishek/ReactJS/tree/master/ReactJS-Basic)
 ### What is React?
