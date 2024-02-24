@@ -12,7 +12,7 @@ import "./App.css";
 // import { StyleSheet } from "./component/StyleSheet";
 // import { NameList } from "./component/NameList";
 // import { UserGreeting } from "./component/UserGreeting";
-//import Greet from "./component/Greet";
+// import Greet from "./component/Greet";
 // import { Message } from "./component/Message";
 // import { ClickHandler } from "./component/ClickHandler";
 // import { ParentComponent } from "./component/ParentComponent"
